@@ -1,0 +1,24 @@
+{
+  "name": "vine-archive-downloader",
+  "version": "1.0.0",
+  "description": "Download user's Vine archive.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upisfree/vine-archive-downloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upisfree/vine-archive-downloader/issues"
+  },
+  "homepage": "https://github.com/upisfree/vine-archive-downloader#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "download": "^8.0.0"
+  }
+}

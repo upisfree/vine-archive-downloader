@@ -1,3 +1,8 @@
+vine-archive
+
+# webstorm
+.idea
+
 # Logs
 logs
 *.log
