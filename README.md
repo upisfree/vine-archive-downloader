@@ -2,11 +2,11 @@
 Download user's Vine archive.
 
 # installation
-bash```
+```bash
 npm i
 ```
 
 # usage
-bash```
+```bash
 node src/vine.js username
 ```
